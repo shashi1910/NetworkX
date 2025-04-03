@@ -1,0 +1,12 @@
+# NetworkX - Requirements
+
+# Scapy for packet capture and analysis
+scapy>=2.4.5
+
+# Optional dependencies
+# For graphical capture on Windows
+# pywin32>=302 ; platform_system=='Windows'
+# netifaces>=0.10.9 ; platform_system=='Windows'
+
+# For enhanced UI (optional)
+# Pillow>=8.0.0 ; platform_system=='Linux'
